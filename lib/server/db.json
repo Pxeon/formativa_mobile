@@ -1,0 +1,38 @@
+{
+  "usuario": [
+    {
+      "id": "0",
+      "nome": "Ipad",
+      "valor": "6000"
+    },
+    {
+      "id": "0",
+      "nome": "Notebook",
+      "valor": "5500"
+    },
+    {
+      "id": "0",
+      "nome": "TV",
+      "valor": "4500"
+    },
+    {
+      "id": "4",
+      "nome": "PS5",
+      "valor": "5000"
+    },
+    {
+      "id": "5",
+      "nome": "Bicicleta",
+      "valor": "1000"
+    },
+    {
+      "id": "6",
+      "nome": "LapTop",
+      "valor": "3000"
+    },
+    {
+      "id": "5fa7",
+      "nome": "o lu é um, viado"
+    }
+  ]
+}
